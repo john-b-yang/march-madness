@@ -12,5 +12,13 @@
 - The pros/cons of raw values (PPG, TRB, AST) versus synthesized values (Defensive Team Rank, Strength of Schedule)
 
 **Completed**
-5/3
-- Find + Import College Basketball Data for 2018-2019 NCAA March Madness College Teams
+
+5/3<br>
+-Find / Import / Clean College Basketball Data for 2018-2019 NCAA March Madness College Teams
+
+5/5<br>
+-Find / Import / Clean College Basketball Data for 2018-2019 NCAA Season
+
+**Data Set Credits**
+* Team Data: https://www.sports-reference.com/cbb/seasons/2019-school-stats.html
+* Season Game Data: https://www.kaggle.com/nateduncan/2011current-ncaa-basketball-games
